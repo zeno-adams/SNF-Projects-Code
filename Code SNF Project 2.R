@@ -494,3 +494,5 @@ reg <-huxreg(Model1, Model2, Model3, coefs = c( "Intercept" = "(Intercept)", "Ri
                                                         "US T-Bill 3-month" = "tb3m", "S&P 500 Log Return" = "log.return.sp500", "VIX" = "vix",  "USD FX" = "fx", "Corn Price" = "corn.spot"))
 
 reg
+
+                         
