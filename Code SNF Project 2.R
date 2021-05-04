@@ -495,4 +495,4 @@ reg <-huxreg(Model1, Model2, Model3, coefs = c( "Intercept" = "(Intercept)", "Ri
 
 reg
 
-                         
+                        
